@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/stone-paper-scissors/static/css/main.d3e15e10.chunk.css",
+    "main.js": "/stone-paper-scissors/static/js/main.29e1d477.chunk.js",
+    "main.js.map": "/stone-paper-scissors/static/js/main.29e1d477.chunk.js.map",
+    "runtime-main.js": "/stone-paper-scissors/static/js/runtime-main.7094cbd0.js",
+    "runtime-main.js.map": "/stone-paper-scissors/static/js/runtime-main.7094cbd0.js.map",
+    "static/css/2.ef9168ec.chunk.css": "/stone-paper-scissors/static/css/2.ef9168ec.chunk.css",
+    "static/js/2.b3232b35.chunk.js": "/stone-paper-scissors/static/js/2.b3232b35.chunk.js",
+    "static/js/2.b3232b35.chunk.js.map": "/stone-paper-scissors/static/js/2.b3232b35.chunk.js.map",
+    "static/js/3.82897972.chunk.js": "/stone-paper-scissors/static/js/3.82897972.chunk.js",
+    "static/js/3.82897972.chunk.js.map": "/stone-paper-scissors/static/js/3.82897972.chunk.js.map",
+    "index.html": "/stone-paper-scissors/index.html",
+    "static/css/2.ef9168ec.chunk.css.map": "/stone-paper-scissors/static/css/2.ef9168ec.chunk.css.map",
+    "static/css/main.d3e15e10.chunk.css.map": "/stone-paper-scissors/static/css/main.d3e15e10.chunk.css.map",
+    "static/js/2.b3232b35.chunk.js.LICENSE.txt": "/stone-paper-scissors/static/js/2.b3232b35.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7094cbd0.js",
+    "static/css/2.ef9168ec.chunk.css",
+    "static/js/2.b3232b35.chunk.js",
+    "static/css/main.d3e15e10.chunk.css",
+    "static/js/main.29e1d477.chunk.js"
+  ]
+}
